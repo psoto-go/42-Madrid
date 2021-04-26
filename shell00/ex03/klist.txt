@@ -1,0 +1,5 @@
+Credentials cache: API:5203
+        Principal: psoto-go@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 23 17:09:09 2020  Nov 24 03:09:02 2020  krbtgt/42MADRID.COM@42MADRID.COM
